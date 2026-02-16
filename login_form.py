@@ -6,7 +6,7 @@ root.title('Login form')
 lbl1= Label(root,text="Login form",font=('Arial',20),fg='red')
 lbl1.place(x=30,y=30)
 
-userlbl=Label(root,text ='user name')
+userlbl=Label(root,text ='prajjawal')
 userlbl.place(x=40,y=70)
 
 usertxt=Entry()
